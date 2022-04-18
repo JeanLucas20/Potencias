@@ -5,4 +5,4 @@
 
 
 ### Diagrama De Flujo
-![Diagrama de flujo] (diagrama.png "Diagrama de Flujo") 
+![Diagrama de flujo](diagrama.png "diagrama de flujo")
